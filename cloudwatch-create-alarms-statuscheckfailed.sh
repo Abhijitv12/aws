@@ -73,8 +73,6 @@ fi
 
 # Check required commands
 check_command "aws"
-check_command "jq"
-
 
 # ToDo: in order to use an SNS Topic it must be within the same region as the instance
 
